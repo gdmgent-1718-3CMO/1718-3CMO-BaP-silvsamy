@@ -30,8 +30,17 @@
  --------------------------- */
  #toc {
     margin-bottom: 1em;
+    position: fixed;
     .nav {
         display: block;
+    }
+    a {
+        color: black;
+    }
+    a:active, a:hover, a:focus, {
+        color: $blauw;
+        font-weight: 600;
+        border: none;
     }
 
  } 

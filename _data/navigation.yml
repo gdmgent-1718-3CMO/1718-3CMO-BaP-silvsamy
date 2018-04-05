@@ -2,26 +2,37 @@
 # dubbele spatie voor de criteria behouden
 
 - name: Logo
-  description: Home
-  # folder: pages/
-  permalink: / 
+  description: Logo
+  # folder: pages/logo
+  permalink: logo/ 
   # fa-icon: icon-info
 
 - name: Kleur
   description: Logo
-  # folder: pages/logo/
-  permalink: logo/
+  # folder: pages/kleur/
+  permalink: kleur/
   # fa-icon: icon-graduation-cap
 
 - name: Typografie
-  description: Kleur
+  description: Typografie
   # folder: pages/kleur/
-  permalink: kleur/i
+  permalink: typografie/
   # fa-icon: icon-info
 
 - name: Illustraties
-  description: Stijlgids voor de Huistijlgids
-  # folder: pages/stijlgids
-  permalink: /stijlgids
+  description: Illustraties
+  # folder: pages/kleur/
+  permalink: illustraties/
   # fa-icon: icon-info
 
+- name: Print
+  description: Printtoepassingen van de huisstijl
+  # folder: pages/kleur/
+  permalink: print/
+  # fa-icon: icon-info
+
+- name: Digitaal
+  description: Digitale toepassingen van de huisstijl
+  # folder: pages/kleur/
+  permalink: digitaal/
+  # fa-icon: icon-info
