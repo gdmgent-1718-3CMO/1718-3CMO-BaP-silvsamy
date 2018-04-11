@@ -84,9 +84,11 @@ main ul {
 //geordende lijstjes met een ander symbool of kleur
 main ol {
     list-style: none;  
-    margin: 0 0 1em;
+    margin: 1em 0 2em;
     padding: 0;
     counter-reset: i 0;
+    line-height: 135%; 
+
     li {
       padding-left: 25px;
       text-indent: -25px;
@@ -97,8 +99,7 @@ main ol {
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
-        color: $color-white;
+        color: black;
         font-family: $myfont-family-title;
         font-weight: $font-weight-bold;
       }    

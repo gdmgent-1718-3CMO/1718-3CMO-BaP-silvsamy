@@ -32,7 +32,7 @@
 
 .navbar-brand {
     padding: 0;
-    margin-top: -8px;
+    margin-top: -26px;
 }
 
 .navbar-brand #logo {
@@ -66,13 +66,13 @@ body {
 footer .col {
     color: $donkerpaars;
     font-weight: 900;
-    margin-left: 9.2rem;
-    padding-bottom: 50px;
-    margin-top: 50px;
+    margin-left: 27.2rem;
+    padding-bottom: 40px;
+    padding-top: 100px;
 }
 
 footer {
-    background-color: white;
+    background-color: transparent;
     color: $color-white;
     a {
         color: $color-white;
@@ -81,6 +81,19 @@ footer {
         }
     }
 }
+
+
+/* TOC
+-------------------------
+*/
+
+#toc li {
+    line-height: 200%;
+}
+
+
+
+
 
 /* BACK TO TOP
 -------------------------
