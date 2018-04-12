@@ -1,0 +1,95 @@
+ADOBE INDESIGN-AFDRUKINSTRUCTIES VOOR SERVICE PROVIDER
+
+NAAM PUBLICATIE: naamkaartje.indd
+
+PAKKETDATUM: 12/04/18 12:12
+Aanmaakdatum: 12/04/18
+Wijzigingsdatum: 12/04/18
+
+CONTACTGEGEVENS
+
+Bedrijfsnaam: 
+Contactpersoon: 
+Adres: 
+
+
+
+
+
+Telefoon: 
+Fax: 
+E-mail: 
+
+SPECIALE INSTRUCTIES EN ANDERE OPMERKINGEN
+
+
+
+
+
+
+Externe plug-ins 0
+Niet-dekkende objecten: Geen
+
+LETTERTYPEN
+4 gebruikte lettertypen; 0 ontbrekend, 0 ingesloten, 0 onvolledig, 0 beveiligd
+
+Lettertypen ingesloten
+- Naam: BreeSerif-Regular; Type: OpenType TrueType, Status: OK
+- Naam: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Naam: SheltonPro-Slab; Type: OpenType Type 1, Status: OK
+- Naam: SourceSansPro-Light; Type: OpenType TrueType, Status: OK
+
+
+KLEUREN EN INKTEN
+4 procesinkten; 4 steuninkten
+
+- Naam en type: Proceskleur Cyaan; Hoek: 75,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Magenta; Hoek: 15,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Geel; Hoek: 0,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Zwart; Hoek: 45,000; Lijnen/inch: 70,000
+- Naam en type: C=11 M=0 Y=82 K=0; Hoek: 45,000; Lijnen/inch: 70,000
+- Naam en type: C=31 M=0 Y=27 K=0; Hoek: 45,000; Lijnen/inch: 70,000
+- Naam en type: C=64 M=0 Y=30 K=0; Hoek: 45,000; Lijnen/inch: 70,000
+- Naam en type: C=80 M=100 Y=3 K=1; Hoek: 45,000; Lijnen/inch: 70,000
+
+
+KOPPELINGEN EN AFBEELDINGEN
+(Alleen ontbrekende en ingesloten koppelingen)
+Koppelingen en afbeeldingen: 1 gevonden koppelingen; 0 gewijzigd, 0 ontbrekend, 0 Niet toegankelijk
+Afbeeldingen: 0 ingesloten, 0 gebruiken RGB-kleurruimte
+
+
+AFDRUKINSTELLINGEN
+PPD: Apparaatonafhankelijk, (PostScript®-bestand)
+Afdrukken naar: Prepress-bestand
+Aantal exemplaren: 1
+Lezer spreads: Nee
+Even/oneven pagina's: Beide
+Pagina's: Alles
+Proef: Nee
+Naast elkaar: Geen
+Schalen: 100%, 100%
+Paginapositie: Linksboven
+Lagen afdrukken: Zichtbare & afdrukbare lagen
+Drukkersmarkeringen: Geen
+Afloopgebied: 0 mm, 0 mm, 0 mm, 0 mm
+Kleur: Samengesteld CMYK
+Overvulmodus: Geen
+Afbeeldingsgegevens verzenden: Alles
+Vervanging OPI/DCS-afbeelding: Nee
+Paginaformaat: Aangepast: 55 mm x 85 mm
+Papierafmetingen: 0 mm x 0 mm
+Stand: Staand
+Negatief: Nee
+Spiegelmodus: Uit
+
+
+BESTANDSPAKKETLIJST
+
+1. naamkaartje.indd; type: Adobe InDesign-publicatie; grootte: 1312K
+2. naamkaartje.idml; type: InDesign-opmaakdocument; grootte: 61K
+3. naamkaartje.pdf; type: Adobe Acrobat-document; grootte: 104K
+4. BreeSerif-Regular.ttf; type: Lettertypebestand; grootte: 45K
+5. MinionPro-Regular.otf; type: Lettertypebestand; grootte: 213K
+6. Shelton Slab.otf; type: Lettertypebestand; grootte: 284K
+7. SourceSansPro-Light.ttf; type: Lettertypebestand; grootte: 285K

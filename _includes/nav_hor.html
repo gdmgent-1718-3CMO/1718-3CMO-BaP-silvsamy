@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light ">
-    <div class="container fixed-top"><!-- <<< verwijder als je navigatie over de ganse breedte wenst -->
+    <div class="container fixed-top bg-white"><!-- <<< verwijder als je navigatie over de ganse breedte wenst -->
         <a class="navbar-brand" href="{{ '/' | relative_url }}">  <img src="{{ '/assets/images/logo.png' | relative_url }}" id="logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavigation" aria-controls="mainNavigation" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -19,11 +19,15 @@
                         {%- include navigation-from-folder.html nav-item=nav-item %}
                 </li>
             {%- else %}
+
+
             <li class="nav-item {{ item_classes }}">
                     <a class="nav-link" href="{{ nav-item.permalink | relative_url }}" title="{{ nav-item.name }}">
                         {{ nav-item.name }}
                     </a>
+                    
             </li>
+            
             {%- endif %}
 
         {%- endfor %}

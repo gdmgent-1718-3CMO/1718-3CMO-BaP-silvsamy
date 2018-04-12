@@ -1,0 +1,27 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Regular
+FamilyName:Source Sans Pro
+StyleName:Regular
+MenuName:Source Sans Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Regular
+WritingScript:Roman
+OutlineFileName:\SourceSansPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:293516
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Regular
+NameArray:0,Win,1,Source Sans Pro
+%EndFont
+

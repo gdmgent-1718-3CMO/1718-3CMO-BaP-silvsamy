@@ -1,0 +1,86 @@
+ADOBE INDESIGN-AFDRUKINSTRUCTIES VOOR SERVICE PROVIDER
+
+NAAM PUBLICATIE: Enveloppe.indd
+
+PAKKETDATUM: 12/04/18 15:00
+Aanmaakdatum: 12/04/18
+Wijzigingsdatum: 12/04/18
+
+CONTACTGEGEVENS
+
+Bedrijfsnaam: 
+Contactpersoon: 
+Adres: 
+
+
+
+
+
+Telefoon: 
+Fax: 
+E-mail: 
+
+SPECIALE INSTRUCTIES EN ANDERE OPMERKINGEN
+
+
+
+
+
+
+Externe plug-ins 0
+Niet-dekkende objecten: Geen
+
+LETTERTYPEN
+1 gebruikte lettertypen; 0 ontbrekend, 0 ingesloten, 0 onvolledig, 0 beveiligd
+
+Lettertypen ingesloten
+- Naam: SourceSansPro-Regular; Type: OpenType TrueType, Status: OK
+
+
+KLEUREN EN INKTEN
+4 procesinkten; 1 steuninkten
+
+- Naam en type: Proceskleur Cyaan; Hoek: 75,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Magenta; Hoek: 15,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Geel; Hoek: 0,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Zwart; Hoek: 45,000; Lijnen/inch: 70,000
+- Naam en type: C=80 M=100 Y=3 K=1; Hoek: 45,000; Lijnen/inch: 70,000
+
+
+KOPPELINGEN EN AFBEELDINGEN
+(Alleen ontbrekende en ingesloten koppelingen)
+Koppelingen en afbeeldingen: 1 gevonden koppelingen; 0 gewijzigd, 0 ontbrekend, 0 Niet toegankelijk
+Afbeeldingen: 0 ingesloten, 0 gebruiken RGB-kleurruimte
+
+
+AFDRUKINSTELLINGEN
+PPD: Apparaatonafhankelijk, (PostScript®-bestand)
+Afdrukken naar: Prepress-bestand
+Aantal exemplaren: 1
+Lezer spreads: Nee
+Even/oneven pagina's: Beide
+Pagina's: Alles
+Proef: Nee
+Naast elkaar: Geen
+Schalen: 100%, 100%
+Paginapositie: Linksboven
+Lagen afdrukken: Zichtbare & afdrukbare lagen
+Drukkersmarkeringen: Geen
+Afloopgebied: 0 mm, 0 mm, 0 mm, 0 mm
+Kleur: Samengesteld CMYK
+Overvulmodus: Geen
+Afbeeldingsgegevens verzenden: Alles
+Vervanging OPI/DCS-afbeelding: Nee
+Paginaformaat: Aangepast: 229 mm x 114 mm
+Papierafmetingen: 0 mm x 0 mm
+Stand: Liggend
+Negatief: Nee
+Spiegelmodus: Uit
+
+
+BESTANDSPAKKETLIJST
+
+1. Enveloppe.indd; type: Adobe InDesign-publicatie; grootte: 1240K
+2. Enveloppe.idml; type: InDesign-opmaakdocument; grootte: 74K
+3. Enveloppe.pdf; type: Adobe Acrobat-document; grootte: 573K
+4. SourceSansPro-Regular.ttf; type: Lettertypebestand; grootte: 286K

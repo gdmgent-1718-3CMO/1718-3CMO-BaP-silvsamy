@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BreeSerif-Regular
+FamilyName:Bree Serif
+StyleName:Regular
+MenuName:Bree Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bree Serif Regular
+WritingScript:Roman
+OutlineFileName:\BreeSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46572
+FileModTime:1324252800
+NameArray:0,Mac,4,Bree Serif Regular
+NameArray:0,Win,1,Bree Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSansPro-Light
+FamilyName:Source Sans Pro
+StyleName:Light
+MenuName:Source Sans Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Source Sans Pro Light
+WritingScript:Roman
+OutlineFileName:\SourceSansPro-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:292680
+FileModTime:1343696400
+DesignSize:100
+NameArray:0,Mac,4,Source Sans Pro Light
+NameArray:0,Win,1,Source Sans Pro Light
+NameArray:0,Win,16,Source Sans Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SheltonPro-Slab
+FamilyName:Shelton Pro
+StyleName:Slab
+MenuName:Shelton Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Shelton Pro Slab
+WritingScript:Roman
+OutlineFileName:\Shelton Slab.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:291056
+FileModTime:1518476194
+NameArray:0,Mac,18,Shelton Pro Slab
+NameArray:0,Mac,4,Shelton Pro Slab
+NameArray:0,Win,1,Shelton Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1521561199
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
