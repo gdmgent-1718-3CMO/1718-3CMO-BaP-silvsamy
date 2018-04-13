@@ -72,13 +72,17 @@ footer .col {
     color: $donkerpaars;
     font-weight: 900;
     margin-left: 27.2rem;
-    padding-bottom: 40px;
-    padding-top: 100px;
+    
+}
+
+.extra-push {
+    
 }
 
 footer {
     background-color: transparent;
     color: $color-white;
+    height: 100px;
     a {
         color: $color-white;
         &:hover {
